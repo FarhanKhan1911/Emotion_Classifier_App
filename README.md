@@ -18,7 +18,7 @@ To activate environment
 Copy Paste the following commands to clone the repo
 
 ```bash
-    git clone https://github.com/Floran-Github/Floran_POS.git
+    git clone https://github.com/FarhanKhan1911/Emotion_Classifier_App.git
 ```
 
 ## To run the app first do this
