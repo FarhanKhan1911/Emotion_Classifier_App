@@ -102,7 +102,7 @@ def main():
 	else:
 		st.subheader("About")
 		add_page_visited_details("About",datetime.now())
-		st.subheader("This application is created by the Steamlit App Framework in Python Language.")
+		st.subheader("This application is created by the Steamlit App Framework in Python Language to detect emotion with high accuracy.")
 
 
 if __name__ == '__main__':
